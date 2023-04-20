@@ -1,110 +1,24 @@
 A demo is available [here](https://samarthmb.github.io/unit-converter/)
 
 
-##overview
+OVERVIEW
 
-This is a very small offline-first mobile-friendly unit conversion tool for the browser. There are many full featured unit converters out there, so every effort has been made to keep this as simple, fast, and portable as possible.
-
-##usage
-
-Select a category (e.g. Length, Mass) from the dropdown menu and then choose the from and to units.
-
-The resulting conversion at the bottom of the page will live update as different values and units are selected.
-
-A full list of the currently supported units is below.
+This is a very small offline-first mobile-friendly unit conversion tool for the browser. There are many full featured unit converters out there, so every effort has been made to keep this as simple, fast, and portable as possible
 
 
-##Time
-milliseconds
-seconds
-minutes
-hours
-days
-weeks
-months
-years
-decades
-centuries
+USAGE
 
+A unit converter is a tool used to convert between different units of measurement. It is useful when you need to convert one unit of measurement to another, such as converting inches to centimeters, or miles to kilometers.
 
-##Length
-Metric
-mm
-cm
-m
+To use a unit converter, you typically need to follow these steps:
 
-##Imperial
-in
-ft
-yd
-mi
+1) Determine the starting unit: Decide on the unit you want to convert from, such as inches or miles.
 
+2) Determine the target unit: Decide on the unit you want to convert to, such as centimeters or kilometers.
 
-##Temperature
-°C
-°F
-K
-°N
+3) Enter the value: Enter the value you want to convert, such as 10 inches or 20 miles.
 
+4) Press the convert button: Click on the convert button, and the unit converter will display the converted value in the target unit.
 
-##IT
-bit
-byte
-KB
-MB
-GB
-TB
+It is important to use a reliable and accurate unit converter, as there are many different units of measurement and conversion factors that can vary depending on the context.
 
-
-##Area
-Metric
-cm²
-m²
-km²
-hectare
-Imperial
-sq in
-sq ft
-sq mi
-acre
-Mass
-Metric
-mg
-g
-kg
-ton / tonne (metric ton)
-Imperial
-oz
-oz avoirdupois
-lb
-stone
-short ton
-Volume
-Metric
-litre
-millilitre
-cc
-mm³
-m³
-km³
-Imperial
-fl oz (imp)
-teaspoon (Can)
-tablespoon (Can)
-cup
-gal (imp)
-gal (US)
-pint (imp)
-quart (imp)
-cu in
-cu ft
-cu mi
-Speed
-Metric
-m/s
-km/h
-Imperial
-mph
-mpm
-mps
-fps
